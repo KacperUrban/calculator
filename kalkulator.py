@@ -1,9 +1,3 @@
-"""Prosty kalkulator. Jest on inny niż w zadaniach, ponieważ jego funkcje są rozszerzone oraz reaguje on na
-   przyciśnięcie przycisku. Liczby są wproawdzane również za pomocą klawitury kalkulatora. Jako format zmiennych
-   liczbowych wykorzystałem float, ponieważ chciałem zachować dokładność obliczeń oraz wynik, który jest w formie
-   zmienno przecinkowej mógł być jeszcze raz obliczany. W programie poniżej zostałą wykorzystana zmienna global,
-   która ma na celu optymalizacje kodu oraz ułatwieniu funkcji button_equal rozpoznanie jaki to znak."""
-
 from tkinter import *
 
 root = Tk()
