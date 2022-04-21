@@ -9,5 +9,6 @@ It is a simple python implementation of the calculator with the Tkinter library.
 
 ## Presentation
 <video src='https://youtu.be/uOqyoIkLmZg' width=180/>
+
 ## Status
 The project has been completed.
